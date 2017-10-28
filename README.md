@@ -1,2 +1,4 @@
 # RPI-useful-setup
-Use a single command to free up space, enable vnc, install screensaver and a few more security patches
+Use a single command to free up space and installing a screensaver:
+
+curL -sSL https://goo.gl/kS6qR9
