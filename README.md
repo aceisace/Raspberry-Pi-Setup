@@ -20,4 +20,6 @@ to this:
 
 pi ALL=(ALL) PASSWD: ALL
 
-Save the file by pressing Crtl and X at the same time. Lastly, press Y to save the changes and enter to confirm.
+Save the file by pressing Crtl and X at the same time. Then, press Y to save the changes and enter to confirm.
+
+To disable power-saving mode, navigate to start>preferences>screensaver, open screensaver and select 'none' from the menu. 
