@@ -13,8 +13,8 @@ completely remove wolfram-alpha and libreoffice (can save up to 1 GB of space)
 function to make sudo require a password each time (improves security)
 
 
-
 To get started, type in this command in LX-Terminal:
+
 curl -sSL https://goo.gl/kS6qR9 | bash
 
 Depending on the connection speed, this command might take a while (<10mins)
