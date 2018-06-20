@@ -1,4 +1,4 @@
-sudo nano /etc/sudoers.d/010_pi-nopasswd
+sudo sed -i s/NOPASSWD/PASSWD/ /etc/sudoers.d/010_pi-nopasswd
 sudo apt-get update
 sudo apt-get dist-upgrade -y
 sudo apt-get install xscreensaver -y
