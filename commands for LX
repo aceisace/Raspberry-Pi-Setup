@@ -1,9 +1,8 @@
-sudo apt-get update 
-sudo apt-get dist-upgrade -y 
-sudo rpi-update
-sudo apt-get install xscreensaver -y 
+sudo nano /etc/sudoers.d/010_pi-nopasswd
+sudo apt-get update
+sudo apt-get dist-upgrade -y
+sudo apt-get install xscreensaver -y
 sudo apt-get remove --purge libreoffice-* -y
 sudo apt-get remove --purge wolfram-engine -y
 sudo apt-get clean -y
-sudo apt-get autoremove -y 
-sudo nano /etc/sudoers.d/010_pi-nopasswd
+sudo apt-get autoremove -y
