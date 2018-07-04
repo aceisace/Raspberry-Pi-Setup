@@ -10,7 +10,7 @@ Make 'sudo' require a password to improve security of the Pi
 
 Update and upgrade the system to the latest version, replacing old files with new ones. 
 
-Prevent the screen and wifi from sleeping if the pi is inactive to prevent connection loss
+Prevent the screen and wifi from sleeping if the pi is inactive to prevent connection loss, which can be achieved by using a screensaver.
 
 Delete Wolfram Alpha and Librefoffice to save a lot of space (~ 1 GB)
 
