@@ -4,7 +4,7 @@
 * Expand the filesystem
 * Make 'sudo' require a password to improve security of the Pi
 * Update and upgrade the system to the latest version, replacing old files with new ones. 
-* Prevent the screen from sleeping after timeout. HDMI screens 
+* Prevent the screen from sleeping after timeout.
 * Delete Wolfram Alpha and Libreoffice to save a lot of space (~ 1 GB)
 
 ## Usage
