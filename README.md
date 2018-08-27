@@ -1,4 +1,4 @@
-# A simple and fast way to get started on a fresh install of Raspbian using a single command.
+# Get started quickly on a fresh install of Raspbian with a single command
 
 ## Main features
 * Expand the filesystem
