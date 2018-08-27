@@ -14,3 +14,7 @@
 
 2. Navigate to **start>Preferences>Screensaver** and select **None** to disable Screen Timeou
 3. Reboot your Raspberry Pi by entering **sudo reboot** in the Terminal to apply the changes
+
+
+## Contact
+Website: https://ace-laboratory.com
