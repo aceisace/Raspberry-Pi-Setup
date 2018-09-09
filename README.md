@@ -1,20 +1,10 @@
-# Get started quickly on a fresh install of Raspbian with a single command
+# A repo for getting used to the Raspberry Pi
 
-## Main features
-* Expand the filesystem
-* Make 'sudo' require a password to improve security of the Pi
-* Update and upgrade the system to the latest version, replacing old files with new ones. 
-* Prevent the screen from sleeping after timeout.
-* Delete Wolfram Alpha and Libreoffice to save a lot of space (~ 1 GB)
+A lot of times, I end up searching for a how-to tutorial specific for the Raspberry Pi. From setting up WiFi to using bash, from freeing up space to reducing boot time etc., there are a lot of things that are worth noting down somewhere.
 
-## Usage
-1. In the Terminal, simply enter the following command:
+It would be a lot easier and better to gather this information in one place. This repo, or more precise, the Wiki of this repo should fulfill that role. 
 
-**sudo curl -sSL https://raw.githubusercontent.com/aceisace/raspberry-pi-quick-start/master/commands%20for%20LX | bash**
-
-2. Navigate to **start>Preferences>Screensaver** and select **None** to disable Screen Timeou
-3. Reboot your Raspberry Pi by entering **sudo reboot** in the Terminal to apply the changes
-
+Check out the Wiki regarding all of these informations.
 
 ## Contact
 Website: https://ace-laboratory.com
